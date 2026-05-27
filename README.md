@@ -24,7 +24,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="mailto:najmeldeen.dev@gmail.com">
+<a href="mailto:najmeldeen.ibrahim.015@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
 </a>
 </p>
@@ -79,14 +79,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=najmeldeen-sudo&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -124,11 +116,6 @@ Personal portfolio website built with HTML, CSS and JavaScript.
 
 > “The best way to predict the future is to build it.”
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najmeldeen-sudo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
 ⭐ From <a href="https://github.com/najmeldeen-sudo">Najmeldeen Sudo</a>
