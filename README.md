@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/najmeldeen-sudo/najmeldeen-sudo/main/banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Najmeldeen Ibrahim</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | ASP.NET Core & Angular</h3>
 
