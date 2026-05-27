@@ -1,55 +1,135 @@
-# Hi, I'm Najmeldeen 👋
+<h1 align="center">Hi 👋, I'm Najmeldeen Ibrahim</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | ASP.NET Core & Angular</h3>
 
-## 🚀 Aspiring Full Stack Developer
-
-I’m currently learning and building projects using:
-
-- ASP.NET Core
-- Angular
-- C#
-- SQL Server
-- TypeScript
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ASP.NET+Core+Developer;Angular+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 💫 About Me
 
-### Frontend
-- Angular
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+💻 Aspiring Full Stack Developer  
+🚀 Currently learning ASP.NET Core & Angular  
+🌱 Passionate about building scalable web applications  
+⚡ Always learning new technologies  
+🎯 Goal: Become a professional software engineer  
 
-### Backend
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/najmeldeen-sudo" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="mailto:najmeldeen.dev@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+</a>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" />
+</p>
+
+---
+
+## ⚡ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
+</p>
+
+---
+
+## 🔥 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
 - ASP.NET Core
 - Entity Framework Core
 - REST APIs
 
-### Database
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 - SQL Server
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📌 Current Goal
+# 📊 GitHub Stats
 
-Build scalable full stack web applications and become a professional software engineer.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=najmeldeen-sudo&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-- LinkedIn: www.linkedin.com/in/najmeldeen-sudo
-- Email: najmeldeen.ibrahim.015@gmail.com
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=najmeldeen-sudo&theme=tokyonight" />
+</p>
 
-  ---
+---
 
-## 📊 GitHub Stats
+# 📈 Most Used Languages
 
-![Najmeldeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=najmeldeen-sudo&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmeldeen-sudo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🚀 Current Goals
+
+- Build Full Stack Web Applications
+- Master ASP.NET Core
+- Learn Angular deeply
+- Improve Problem Solving Skills
+- Contribute to Open Source
+
+---
+
+# 📌 Featured Projects
+
+## 🌟 My Portfolio
+Personal portfolio website built with HTML, CSS and JavaScript.
+
+---
+
+# 💡 Quote
+
+> “The best way to predict the future is to build it.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=najmeldeen-sudo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/najmeldeen-sudo">Najmeldeen Sudo</a>
+</p>
