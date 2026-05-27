@@ -47,3 +47,9 @@ Build scalable full stack web applications and become a professional software en
 
 - LinkedIn: www.linkedin.com/in/najmeldeen-sudo
 - Email: najmeldeen.ibrahim.015@gmail.com
+
+  ---
+
+## 📊 GitHub Stats
+
+![Najmeldeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=najmeldeen-sudo&show_icons=true&theme=tokyonight)
